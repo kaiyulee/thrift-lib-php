@@ -1,0 +1,14 @@
+{
+    "name": "kaiyulee/thrift-lib-php",
+    "description": "Thrift library for php (with swoole)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kaiyulee",
+            "email": "kaiyulee1988@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
