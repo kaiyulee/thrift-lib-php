@@ -4,7 +4,7 @@
     "type": "library",
     "homepage": "https://github.com/kaiyulee/thrift-lib-php",
     "license": "Apache-2.0",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"Thrift\\": "lib/"}
     }
