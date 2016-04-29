@@ -1,14 +1,11 @@
 {
     "name": "kaiyulee/thrift-lib-php",
-    "description": "Thrift library for php (with swoole)",
+    "description": "Apache Thrift library for php (with swoole TNonblockingServer & TNonblockingServerSocket)",
     "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "kaiyulee",
-            "email": "kaiyulee1988@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+    "homepage" "https://github.com/kaiyulee/thrift-lib-php"
+    "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Thrift\\": "lib/"}
+    }
 }
