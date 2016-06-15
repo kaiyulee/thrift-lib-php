@@ -64,6 +64,7 @@ abstract class TServer
    * @param TTransportFactory $outputTransportFactory
    * @param TProtocolFactory $inputProtocolFactory
    * @param TProtocolFactory $outputProtocolFactory
+   * @return void
    */
   public function __construct($processor,
                               TServerTransport $transport,
