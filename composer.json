@@ -1,8 +1,8 @@
 {
-    "name": "qiang.zou/thrift-lib-php",
+    "name": "kaiyulee/thrift-lib-php",
     "description": "Apache Thrift library for php (with swoole TNonblockingServer & TNonblockingServerSocket)",
     "type": "library",
-    "homepage": "http://gitlab.moji.com/qiang.zou/thrift-lib-php",
+    "homepage": "https://github.com/kaiyulee/thrift-lib-php",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
     "autoload": {
